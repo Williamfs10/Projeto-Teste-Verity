@@ -75,7 +75,12 @@ E preencher os campos contato
 E selecionar o botão checkbox
 
 ENTÃO clicar no botão enviar
+### BUGS
+![Mobile1]
 
+Ao acessar a tela home o texto cultura e teck, não foi encontrado comforme os criterios de aceite.
+
+CT01 VALIDAR TEXTO CULTURA E TECK.
 #### TECNOLOGIAS UTILIZADAS
 
 -JAVA
