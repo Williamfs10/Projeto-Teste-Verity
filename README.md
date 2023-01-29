@@ -75,8 +75,8 @@ E preencher os campos contato
 E selecionar o botão checkbox
 
 ENTÃO clicar no botão enviar
-### BUGS
-![Mobile1]
+#### BUG VALIDAÇÃO DE TEXTO 
+![bug](https://github.com/Williamfs10/Teste-Verity/blob/master/2023-01-19%20(2).png)
 
 Ao acessar a tela home o texto cultura e teck, não foi encontrado conforme os criterios de aceite.
 
